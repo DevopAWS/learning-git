@@ -13,3 +13,4 @@
 ### rebase
 * rebase is another merge starategy
 * devlopeiing still 
+* now devlopement is completed
