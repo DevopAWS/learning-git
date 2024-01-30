@@ -14,3 +14,10 @@
 * rebase is another merge starategy
 * devlopeiing still 
 * now devlopement is completed
+
+
+### sqaash
+* started devlopement
+* adding more
+* still adding more
+* now its completed
