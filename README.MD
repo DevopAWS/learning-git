@@ -5,3 +5,6 @@
 * verified successfull.
 
 
+### feature-1
+* develpoer is doing devlopment
+* developer spends some time and pushes for git apart from the devlopement
